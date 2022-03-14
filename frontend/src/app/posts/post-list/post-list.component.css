@@ -11,3 +11,18 @@
 mat-spinner {
     margin: auto;
 }
+
+.post-image img {
+    border:2sddcpx solid blue;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+}
+
+mat-expansion-panel {   
+    width: 50%;
+    margin: auto;
+}
+
+.post-content {
+    margin-top: 25px;;
+}
