@@ -26,3 +26,7 @@ mat-expansion-panel {
 .post-content {
     margin-top: 25px;;
 }
+
+mat-paginator {
+    margin-top: 1rem;
+}
